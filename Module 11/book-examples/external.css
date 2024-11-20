@@ -1,0 +1,18 @@
+ .slider-paragraph{
+    background-color : palegoldenrod;
+     padding: 30px;
+     margin: 40px;
+    }
+    .bg-img{
+      background: url(img.png)
+    }
+    .border{
+      
+      border-width: 2px ;
+      border-style:solid;
+    
+    }
+    .border-solid{
+      border: 2px solid green;
+
+    }
