@@ -1,0 +1,9 @@
+.text-style{
+color: green;
+letter-spacing: 10px;
+word-spacing: 15px;
+text-decoration: line-through;
+text-align: justify;
+font-size: 40px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
