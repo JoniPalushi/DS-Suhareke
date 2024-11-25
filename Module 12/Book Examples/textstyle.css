@@ -5,5 +5,9 @@ word-spacing: 15px;
 text-decoration: line-through;
 text-align: justify;
 font-size: 40px;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-family: "roboto"
+}
+@font-face {
+    font-family: 'roboto';
+    src: url('./Font/RobotoCondensed-Regular.ttf');
 }
