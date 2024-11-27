@@ -1,13 +1,21 @@
 .text-style{
-color: green;
-letter-spacing: 10px;
-word-spacing: 15px;
-text-decoration: line-through;
-text-align: justify;
-font-size: 40px;
-font-family: "roboto"
-}
-@font-face {
-    font-family: 'roboto';
-    src: url('./Font/RobotoCondensed-Regular.ttf');
-}
+    color: green;
+    letter-spacing: 10px;
+    word-spacing: 15px;
+    text-decoration: line-through;
+    text-align: justify;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    h1{
+        background-color: aqua; font-size: 30px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: blueviolet;
+    }
+    h2{
+        background-color: aqua; font-size: 30px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: blueviolet;
+
+    }

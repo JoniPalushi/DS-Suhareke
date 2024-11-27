@@ -1,0 +1,9 @@
+ol{
+    list-style-type: square;
+}
+li{
+    border-bottom: 1px solid red;
+}
+ol{
+    list-style-image: url(download.jpg);
+}
