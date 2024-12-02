@@ -7,3 +7,19 @@ li{
 ol{
     list-style-image: url(download.jpg);
 }
+td, th{
+    border: 1px solid;
+}
+table tbody> tr :nth-child(odd)
+{
+    background-color: #ddd
+}
+div{
+    width: 200px;
+    height: 200px;
+    background-color: #efefef;
+    overflow-x: auto;
+
+
+    
+}
