@@ -1,0 +1,17 @@
+ol{
+    list-style-type: lower-roman;
+}
+ol li{
+    font: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    word-spacing: 2px;
+
+}
+ul{
+    list-style-type: armenian;
+}
+ul li{
+    font: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    word-spacing: 3px;
+}
