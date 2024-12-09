@@ -1,0 +1,6 @@
+.static {
+    border: 1px solid #000;
+    width: 300px;
+    position: static;
+    padding: 10px;
+}
