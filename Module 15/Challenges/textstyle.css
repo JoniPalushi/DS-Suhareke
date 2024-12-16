@@ -1,6 +1,56 @@
 .static {
     border: 1px solid #000;
+    height: 250px;
     width: 300px;
-    position: static;
     padding: 10px;
+    left: 200px;
+    top: 80px;
+    position: static;
+
 }
+
+.absolute{
+    width: 30px;
+    height: 100px;
+    border: 1px solid #000;
+    left: 50px;
+    right: 30px;
+    position: absolute;
+    left: 50%;
+    top: calc(50% - 15px);
+    
+}
+
+.relative{
+    border: 1px solid #000;
+    width: 100px;
+    height: 200px;
+    position: relative;
+}
+
+.sticky{
+    border: 1px solid #000;
+    width: 350px;
+    height: 100px;
+    bottom: 30px;
+    top: 30px;
+    height: 50px;
+    position: sticky;
+}
+
+.fixed{
+    border: 1px solid #000;
+    width: 200px;
+    height: 55px;
+    left: 50px;
+    top: 90px;
+    top: 50px;
+    position: fixed;
+
+}
+
+
+
+
+
+
