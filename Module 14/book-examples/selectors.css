@@ -1,0 +1,40 @@
+article > p:first-child {
+    background-color: aqua;
+    text-emphasis-color: red
+    ;
+}
+article > div > p{
+    background-color: blue;
+    text-emphasis-color: red
+    ;
+}
+article + p {
+    background-color: brown;
+    text-emphasis: red;
+}
+article + p + p{
+    background-color: blue;
+    text-emphasis: red;
+}
+input:in-range{
+     border: 1px green;
+     background-color: aquamarine;
+}
+input:out-of-range{
+    border: 1px green;
+    background-color: brown;
+}
+input:focus{
+    border: 10px;
+    color: black;
+    background-color: blueviolet;
+}
+p:first-of-type{
+    background-color: aqua;
+}
+p::first-letter{
+    background-color: blue;
+}
+p::after{
+    content: url(../../../../../Desktop/iioo.jpg);
+}
