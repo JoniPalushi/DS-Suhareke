@@ -1,0 +1,53 @@
+.flex-container{
+    display: flex;
+    background-color: blue;
+    padding: 20px;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    height: 300px;
+}
+.flex-container > div{
+    padding: 20px;
+    margin: 15px;
+    color: white;
+    border: 1px solid white;
+    
+}
+.flex-container > div:nth-child(1){
+    order: 4;
+    background-color: green;
+    
+}
+
+.flex-container > div:nth-child(2){
+    order: 1;
+    background-color: red;
+}
+.flex-container > div:nth-child(3){
+    order: 2;
+}
+.flex-container > div:nth-child(4){
+    order: 3;
+    background-color: yellow;
+}
+
+
+
+
+.flex-container > div:nth-child(1){
+
+    align-self: flex-start;
+}
+/*.flex-container > div:nth-child(2){
+    
+}
+.flex-container > div:nth-child(3){
+    
+}
+.flex-container > div:nth-child(4){
+    
+}
+
+
+
