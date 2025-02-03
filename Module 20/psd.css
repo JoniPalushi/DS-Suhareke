@@ -1,0 +1,22 @@
+#section-1{
+   background-color: #87509c; 
+}
+body{
+    margin: 0;
+    font-family: "Titillium Web" , sans-serif;
+}
+#section-1 > div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 150px;
+
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+nav ul li{
+    display: inline-block;
+    padding: 10px 15px;
+}
