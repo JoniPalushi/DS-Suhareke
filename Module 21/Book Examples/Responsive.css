@@ -1,0 +1,14 @@
+@media(max-width:600px){
+.p1{
+    background-color: blue;
+    color: aqua;
+
+}
+}
+@media(min-width:1000px){
+    .p1{
+        background-color: red;
+        color: blueviolet;
+    }
+
+}
