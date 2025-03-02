@@ -87,3 +87,24 @@ section h1{
     text-align: center;
 
 }
+.video-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.video-container iframe {
+    width: 100%;
+    max-width: 300px;
+    height: 200px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #c8102e;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
