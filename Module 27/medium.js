@@ -8,4 +8,4 @@ const person = {
 };
 
 
-console.log(person.getFullName());  // Output will be "John Doe"
+console.log(person.getFullName());  
