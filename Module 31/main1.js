@@ -1,4 +1,4 @@
-var student = ["John", "Mark","Ana"];
+var students = ["John", "Mark","Ana"];
 
 //challenge1
 
